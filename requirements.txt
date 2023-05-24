@@ -1,3 +1,3 @@
-aiortc @ git+https://github.com/dguerizec/aiortc.git
+#aiortc @ git+https://github.com/dguerizec/aiortc.git
 livekit_signaling @ git+https://github.com/dguerizec/livekit-client-sdk-python.git
 
